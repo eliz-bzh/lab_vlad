@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1551086484 source:d:\liz\codeblocks\Гоша\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<algorithm>
+	<time.h>
+
+1551087163 source:d:\liz\codeblocks\1_lab_saod\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<algorithm>
+	<time.h>
+
